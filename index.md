@@ -1,5 +1,5 @@
 # About
-プログラムでゲームを  作りたいと思っています。
+プログラムでゲームを<br>作りたいと思っています。
 
 ## Profile
 -metarick (metarick)
