@@ -5,3 +5,11 @@
 -metarick (metarick)
 -宮城県
 -プログラミング
+
+### skills
+-python
+-javascript
+-C
+-html
+を学習中
+
