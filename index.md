@@ -5,5 +5,3 @@
 -metarick (metarick)
 -宮城県
 -プログラミング
-
-段落です
