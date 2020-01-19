@@ -7,9 +7,9 @@
 -プログラミング
 
 ### skills
--python
--javascript
--C
--html
-を学習中
+-python  
+-javascript  
+-C  
+-html  
+を学習中  
 
