@@ -1,8 +1,3 @@
-theme: jekyll-theme-cayman
-title: [metarick2020]
-description: [metaric2020 のポートフォリオサイト]
-
-
 # About
 プログラムでゲームを作りたいと思っています。
 
