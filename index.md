@@ -15,3 +15,7 @@
 
 ## Contact
 -[Twitter] @meta2015
+
+theme: jekyll-theme-cayman
+title: [metarick2020]
+description: [metaric2020 のポートフォリオサイト]
