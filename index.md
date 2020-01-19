@@ -6,7 +6,7 @@
 -宮城県
 -プログラミング
 
-### skills
+## skills
 -python  
 -javascript  
 -C  
